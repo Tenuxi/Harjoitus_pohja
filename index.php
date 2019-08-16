@@ -7,7 +7,7 @@
 
     <!-- Fontit -->
     <link href="https://fonts.googleapis.com/css?family=Dosis&display=swap" rel="stylesheet">
-
+    <link href="https://fonts.googleapis.com/css?family=Josefin+Sans&display=swap" rel="stylesheet">
 
     <!-- Tyylit -->
         <!-- Bootsrtap -->
@@ -16,50 +16,58 @@
         <link rel="stylesheet" href="style.css">
 
 
-
+    <!-- Title ------------------------------------------------------------------>
     <title>Harjoitus pohja</title>
+
+
 </head>
 <body>
 
 
 
-<!-- Poista kommentit diveistä joita haluat käyttää -->
+<!-- Poista ulos kommentoinnit diveistä joita haluat käyttää! -------------------->
 
 
-    <!-- Header -->
+    <!-- Header ------------------------------------------------------------------>
     <header>Harjoituksen nimi</header>
 
-    <!-- Pieni "Huom" Div -->
 
+
+    <!-- Pieni "Huom" Div -------------------------------------------------------->
+
+<!--
     <div id="huomautus" class="alert alert-danger" role="alert">
-        TESTI!
+        
     </div>
+-->
 
-    <!-- 95% Leveä Div -->
+
+
+    <!-- 95% Leveä Div ------------------------------------------------------------>
+
+<!--
     <div id="leveaDiv" class="container-fluid">
-        <!-- Content here -->
+        
 
-        testii
 
-        <br>
-
-        testiiiii
     </div>
+-->
 
 
-    <!-- 70% Leveä Div -->
+
+    <!-- 70% Leveä Div ------------------------------------------------------------>
+
+<!--
     <div id="kapeaDiv" class="container">
-        <!-- Content here -->
 
-        testii
 
-        <br>
 
-        testiiiii
     </div>
+-->
 
 
-    <!-- Footer -->
+
+    <!-- Footer ------------------------------------------------------------------->
     <footer class="footer mt-auto py-3">
         <div class="container">
             <span class="text-muted">Template © Joonas - 2019</span>
