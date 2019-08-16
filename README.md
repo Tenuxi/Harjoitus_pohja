@@ -1,2 +1,2 @@
 # Harjoitus_pohja
- Html / PHP pohja harjoitus töitä varten
+ HTML pohja harjoitus töitä varten
