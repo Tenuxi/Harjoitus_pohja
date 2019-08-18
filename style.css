@@ -16,6 +16,23 @@ header{
     border-bottom: 2px solid #ffffff;
 }
 
+#navigaatio{
+    text-align: center;
+}
+
+.nav-item{
+    display: inline;
+}
+
+.nav-link{
+    display:inline-block;
+}
+
+#napit{
+    text-align: center;
+}
+
+
 #huomautus{
     text-align: center;
     width: 60%;
